@@ -1,7 +1,7 @@
 package com.github.jitpack;
 
 /**
- * Hello Mahesh Kumar world!
+ * Hello Mahesh Kumar world Mahesh!
  *
  */
 public class App 
