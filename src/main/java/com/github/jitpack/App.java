@@ -2,7 +2,7 @@ package com.github.jitpack;
 
 /**
  * Hello welcome to DevOps world
-  this line is modified sunanda
+ * this line is modified sunanda
  *
  */
 public class App 
